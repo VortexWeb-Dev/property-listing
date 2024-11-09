@@ -150,6 +150,4 @@
         </div>
     </div>
     <!-- End Card -->
-    </div>
-    <!-- End Table Section -->
 </x-layout>
